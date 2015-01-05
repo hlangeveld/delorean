@@ -7,7 +7,7 @@ Delorean
 .. automodule:: delorean.dates
    :members:
 
-Inteface Methods
+Interface Methods
 ^^^^^^^^^^^^^^^^^
 
 .. automodule:: delorean.interface
